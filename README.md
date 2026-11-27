@@ -1,4 +1,4 @@
-# 💅 Nails at the Nanoscale
+# 💅 Nails at the Nanoscale (nm)
 
 ### Where Beauty Meets Nanotechnology
 
