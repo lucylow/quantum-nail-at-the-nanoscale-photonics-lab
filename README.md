@@ -8,6 +8,7 @@ Nails at the Nanoscale transforms scientific concepts into a futuristic digital 
 
 > **Project vision:** Make nanotechnology beautiful, accessible, and fun to explore.
 
+![](https://github.com/lucylow/quantum-nail-at-the-nanoscale-photonics-lab/blob/main/Screenshot%20(2032).png?raw=true)
 ---
 
 ## ✨ Project Preview
