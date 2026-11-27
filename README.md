@@ -1,14 +1,18 @@
-# Welcome to your Lovable project
+# Quantum Nail At The Nanoscale Photonics Lab
+
+IN LESS THAN 3.7 CREDITS, Quantum Nails at the Nanoscale
 
 This project was built with [Lovable](https://lovable.dev).
 
+**Live app**: https://quantum-nail-at-the-nanoscale-photonics-lab.lovable.app
+
 ## Build with Lovable
 
-Open your project in the [Lovable editor](https://lovable.dev) and keep building.
+Continue developing this project in the [Lovable editor](https://lovable.dev/projects/4e6a55c9-e060-4cda-97eb-94e1c634058f).
 
 - **Ship faster**: describe what you want to build and Lovable handles the code.
-- **Stay in sync**: connect the project to GitHub and every change made in Lovable is committed straight to your repository.
-- **Full ownership**: this code is yours. Push to your repository and your changes sync back into Lovable, ready for your next prompt.
+- **Stay in sync**: every change made in Lovable is committed straight to this repository.
+- **Full ownership**: this code is yours. Push to `main` on GitHub and your changes sync back into Lovable, ready for your next prompt.
 
 ## Development
 
@@ -20,10 +24,3 @@ cd <repository-name>
 npm i
 npm run dev
 ```
-
-## Built with
-
-- TanStack Start
-- TypeScript
-- React
-- Tailwind CSS
